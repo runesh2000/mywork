@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+    font-family: 'Bebas Neue', sans-serif;
+}
+/* #x
+{
+    color: red;
+}
+h1
+{
+    color: green;
+}
+.y
+{
+    color: gold;
+} */
+/* .container p , .container h1
+{
+    color: blue;
+} */
+/* body
+{
+    height: 5000px;
+}
+.container
+{
+    width: 700px;
+    height: 500px; */
+    /* background-color: blue; */
+    /* background-image:url(../images/cat.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover; */
+    /* background-attachment: fixed; */
+    /* background: linear-gradient(to right bottom , green , yellow); */
+    /* background: radial-gradient(green , yellow); */
+    /* background: conic-gradient(green , yellow , blue , orange , orangered); */
+/* } */
+
+/* .container
+{
+    width: 500px;
+    height: 300px;
+    background-color: gold;
+    text-align: center;
+}
+.container h1
+{
+    /* text-align: right; */
+   /* text-shadow: 5px 5px 10px red;
+}
+.container p 
+{
+    /* text-align: center; */
+    /*text-indent: 70px;
+    text-transform: capitalize;
+}
+/*
+.container a
+{
+    color: red;
+    text-decoration: none;
+} */
+/* .x
+{
+    width: 100%;
+    height: 600px;
+    background-color: gold;
+    text-align: center;
+}
+.y
+{
+    width: 90%;
+    height: 400px;
+    background-color: red;
+} */
+
+.container
+{
+    width: 500px;
+    height: 300px;
+    background-color: gold;
+    text-align: center;
+}
+.container h1
+{
+    font-size: 30px;
+}
+.container p 
+{
+    font-size: 20px;
+    /* font-style: italic;
+    font-weight: bold; */
+    /* font-family: ; */
+}

@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* #btn
+{
+    padding: 10px 15px;
+}
+#box
+{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+} */
+/* .x
+{
+    width: 100%;
+    height: 100vh;
+    background-color: green;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#box1 , #box2 , #box3 , #box4
+{
+    width: 100px;
+    height: 100px;
+    display: none;
+}
+#box1
+{
+    background-color: red;
+}
+#box2
+{
+    background-color: navy;
+}
+#box3
+{
+    background-color: gold;
+}
+#box4
+{
+    background-color: orange;
+} */
+
+/* body {
+    height: 5000px;
+    width: 5000px;
+} */
+/* header
+{
+    width: 100%;
+    height: 150px;
+    background-color: black ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+}
+header nav
+{
+    width: 70%;
+    height: 80px;
+    background-color: red;
+    border-radius:20px;
+    position: fixed;
+    top: 40px;
+    transition: 1s;
+} */
+
+/* #btn
+{
+    padding: 20px;
+    border: none;
+    cursor: pointer;
+    background-color: red;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    border-radius: 50%;
+    display: none;
+} */
+.container
+{
+    width: 100%;
+    height: 100vh;
+    background-color: gold;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+ul
+{
+    display: flex;
+    width: 60%;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style: none;
+}
+img{
+    width: 100px;
+    height: 100px;
+    /* object-fit: contain; */
+    cursor: pointer;
+}
+#main img
+{
+    width: 100%;
+    height: 100%;
+}
+ul li
+{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+li:nth-child(1)
+{
+    background-color: red;
+}
+li:nth-child(2)
+{
+    background-color: navy;
+}
+li:nth-child(3)
+{
+    background-color: green;
+}
+li:nth-child(4)
+{
+    background-color: black;
+}
+#main
+{
+    width: 500px;
+    height: 300px;
+    background-color: red;
+}

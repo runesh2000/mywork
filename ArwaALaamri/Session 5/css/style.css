@@ -1,0 +1,177 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+/* .container
+{
+    width: 300px;
+    height: auto;
+    background-color: gold;
+    overflow: hidden;
+}
+.container p
+{
+    padding: 50px;
+} */
+
+/* p{ */
+    /* padding-left: 200px;
+    padding-top: 200px;
+    padding-right: ;
+    padding-bottom: ; */
+    /* padding: 100px; */
+    /* padding: 100px 0px 50px 100px; */
+    /* padding: 100px 50px; */
+    /* margin: 100px;
+    padding: 50px; */
+    /* margin-left: 200px; */
+    /* border: 1px red solid; */
+/* } */
+
+/* .circle
+
+{
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+    margin: 20px;
+    /* border-radius: 50%; */
+    /* border-top-left-radius: 10px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 100px; */
+/* } */ 
+/* .x{
+    width: 500px;
+    height: 500px;
+    background-color: gold; */
+    /* text-align: center */
+    /* padding-left: 150px; */
+/* }
+.y
+{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    margin-left: 150px;
+} */
+
+/* ul
+{
+    margin-left: 20px;
+}
+ol 
+{
+    margin-left: 20px;
+    list-style: georgian;
+} */
+/* .container
+{
+    width: 100%;
+    height: 100vh;
+    background-color: gold;
+}
+.red , .green , .blue
+{
+    width: 200px;
+    height: 200px;
+}
+.red
+{
+    background-color: red;
+    display: inline-block;
+
+}
+.green
+{
+    background-color: green;
+    display: inline-block;
+
+
+}
+.blue
+{
+    background-color: blue;
+     display: inline-block;
+
+
+}
+img
+{
+    display: block;
+} */
+/* .nav
+{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+.nav img
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+.nav ul
+{
+    float: right;
+    list-style: none;
+}
+.nav ul a 
+{
+    text-decoration: none;
+    font-size: 20px;
+    float: left;
+    padding-right: 15px;
+    margin-top: 15px;
+    color: white;
+    background-color: gold;
+    padding: 10px;
+    margin: 10px;
+} */
+
+/* h1
+{
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+} */
+/* p
+{
+    font-size: 30px;
+    word-spacing: 10px;
+    letter-spacing: 10px;
+    border: red 3px solid;
+    outline: blue 4px solid;
+    margin: 10px;
+} */
+
+.box
+{
+    width: 200px;
+    height: 200px;
+    background: gold;
+    margin: 10px;
+    transition: 1s;
+    /* box-shadow: 5px 5px 0px 15px black; */
+    /* opacity: 0; */
+    /* visibility: hidden; */
+    display: none;
+}
+.x
+{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+/* .box:active
+{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    transition: 1s;
+    margin-left: 500px;
+} */
